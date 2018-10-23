@@ -9,40 +9,40 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Arial-BoldMT",
-              "size": 48
+              "name": "Montserrat-SemiBold",
+              "size": 15
             }
           },
+          "MSAttributedStringTextTransformAttribute": 1,
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "baseWritingDirection": 0,
-            "headerLevel": 4,
-            "paragraphSpacing": 15.96000003814697
+            "maximumLineHeight": 19,
+            "minimumLineHeight": 19
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 14,
+        "length": 21,
         "location": 0
       }
     ],
-    "string": "Type something"
+    "string": "Nulla ac commodo nibh"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "DA948124-1DEA-47BA-932E-59060ADF72A1",
+  "do_objectID": "412A4390-F796-4C2A-B540-A8983B6BE089",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "EDA1DC15-875B-402D-BD42-5968F574B138",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,12 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 54,
-    "width": 370,
-    "x": 304,
-    "y": 231
+    "do_objectID": "040640DF-1165-4D64-B423-351FDD874196",
+    "height": 19,
+    "width": 355,
+    "x": 92,
+    "y": 137
   },
-  "glyphBounds": "{{0, 0}, {0, 0}}",
+  "glyphBounds": "{{1, 4}, {207, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -66,42 +67,43 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Type something",
+  "name": "Nulla ac commodo nib",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "5549EFB8-6A14-4DD0-8AE5-4F31367FFA7F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "43051847-2B4D-49DB-9F39-5898E748621D",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Arial-BoldMT",
-            "size": 48
+            "name": "Montserrat-SemiBold",
+            "size": 15
           }
         },
+        "MSAttributedStringTextTransformAttribute": 1,
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "baseWritingDirection": 0,
-          "headerLevel": 4,
-          "paragraphSpacing": 15.96000003814697
+          "maximumLineHeight": 19,
+          "minimumLineHeight": 19
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -109,5 +111,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }
