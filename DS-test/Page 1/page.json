@@ -35,12 +35,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "DA948124-1DEA-47BA-932E-59060ADF72A1"
+      "class": "shapeGroup",
+      "id": "9C4B326B-FCE4-4F29-9310-7369DEA4FB8B"
     },
     {
-      "class": "artboard",
-      "id": "C53D8491-28D7-4312-BA73-D56F05221CFE"
+      "class": "text",
+      "id": "DA948124-1DEA-47BA-932E-59060ADF72A1"
     }
   ],
   "name": "Page 1",
