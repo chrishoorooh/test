@@ -27,11 +27,11 @@
             "alignment": 2
           }
         },
-        "length": 14,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "CALL TO ACTION"
+    "string": "blah"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -56,7 +56,7 @@
     "x": 9,
     "y": 14
   },
-  "glyphBounds": "{{19, 3}, {101, 10}}",
+  "glyphBounds": "{{53, 3}, {34, 9}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "CALL TO ACTION",
+  "name": "blah",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
