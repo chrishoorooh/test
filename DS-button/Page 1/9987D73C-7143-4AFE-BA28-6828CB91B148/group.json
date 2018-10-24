@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "9987D73C-7143-4AFE-BA28-6828CB91B148",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "579F9343-DF1C-4E6A-B283-0428415A93B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1EBEC3A0-D1E3-4D46-845F-0E220CD44B1F",
+    "height": 44,
+    "width": 158,
+    "x": -307,
+    "y": 238.9999999999999
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BF33E7BC-74C3-4DCF-9E9C-428BE64C3BB4"
+    },
+    {
+      "class": "text",
+      "id": "C5521454-5A8C-43C1-B9A1-56E4FB40E226"
+    }
+  ],
+  "name": "BTN",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "29961AD9-9F10-4C2E-B857-58DE2745363B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
