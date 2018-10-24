@@ -1,0 +1,100 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "2FA5265E-459B-46CE-853B-ACDD22D86BE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F3DEACB-8568-4AAA-86FA-E0D78B2C2E99",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B871A3EF-7C95-418C-8588-9D60A8B033C7",
+    "height": 24,
+    "width": 22,
+    "x": 92,
+    "y": 570
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BB5F63F6-022D-4644-9F3C-2B094C7B466C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "42948C3A-E998-4423-A7A7-A214FFBA36EA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2C2AC983-BB30-4981-AA8E-0ED4928FA272"
+    },
+    {
+      "class": "group",
+      "id": "7877611E-AACB-4B96-B0A2-B96F830EE969"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "34B7CA90-EA6E-46AF-B587-685A91D5297C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "349DDB63-675E-4EF8-824F-A7FD888299F9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "984CF1A8-E267-4092-BEFD-6E8C9C1E7A45"
+    },
+    {
+      "class": "group",
+      "id": "F332B380-86D0-443D-87AE-5151C7298506"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BEE49F5D-6232-457C-B9F2-810CA59441A1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "37478830-9579-44B6-A2DC-4685FC899B35"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D39F19FE-3B81-4133-A9F0-D46AD56E340F"
+    }
+  ],
+  "name": "Snowflake Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E5DF2F97-624B-41D3-9844-333EAE5A82A0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
