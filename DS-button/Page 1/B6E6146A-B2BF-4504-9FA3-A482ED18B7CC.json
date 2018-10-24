@@ -26,7 +26,7 @@
             "alignment": 0
           }
         },
-        "length": 10,
+        "length": 15,
         "location": 0
       },
       {
@@ -52,19 +52,19 @@
             "alignment": 0
           }
         },
-        "length": 11,
-        "location": 10
+        "length": 7,
+        "location": 15
       }
     ],
-    "string": "Text CTAs\nHover State"
+    "string": "Primary Button\nDefault"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "005FFFED-D931-4787-81E3-E6BD32E2F663",
+  "do_objectID": "B6E6146A-B2BF-4504-9FA3-A482ED18B7CC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5E45EE46-35A3-400D-9EAC-3CD92C698B48",
+    "do_objectID": "85C0A254-2C60-4FCD-8842-8F713DE6B4F9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -75,13 +75,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F65D3920-5F35-4C3B-8EE5-6BF0BD8835F4",
+    "do_objectID": "829B7FAB-073A-4463-8787-73C2474AB95F",
     "height": 34,
     "width": 158,
-    "x": 652,
-    "y": 247
+    "x": -307,
+    "y": 184.9999999999999
   },
-  "glyphBounds": "{{0, 3}, {74, 29}}",
+  "glyphBounds": "{{1, 3}, {100, 29}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -89,7 +89,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Text CTAs Hover Stat",
+  "name": "Primary Button Defau",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -97,13 +97,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "996500AC-807F-4960-A78E-D62582B2CBDC",
+    "do_objectID": "4BF3876B-2016-425C-B92D-9FE32992FC49",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "C04A3D0E-2BCF-4BE5-ADDF-801EE3A6873A",
+      "do_objectID": "EF2697AA-603E-43D2-9F24-B289D4748D84",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

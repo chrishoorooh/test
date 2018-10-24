@@ -26,45 +26,19 @@
             "alignment": 0
           }
         },
-        "length": 15,
+        "length": 29,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.3137254901960786,
-            "green": 0.0117647058823529,
-            "red": 0.9882352941176471
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Helvetica",
-              "size": 14
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0
-          }
-        },
-        "length": 11,
-        "location": 15
       }
     ],
-    "string": "Primary Button\nHover State"
+    "string": "Element or Alternative Accent"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "AC046807-4F6E-4ADE-B757-77113D9F6F0D",
+  "do_objectID": "D4602390-FFE8-4678-AF43-416AB11898DE",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C9CE00AA-4F52-4324-80A2-1371EF4ED38C",
+    "do_objectID": "B489363D-CE70-4A04-89AF-4D7F1B42FB22",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -75,13 +49,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "74A8B8A5-F631-4236-BC88-E3D58C65EC71",
-    "height": 34,
-    "width": 158,
-    "x": 652,
-    "y": 370.9999999999999
+    "do_objectID": "FF80A265-AB77-4A86-A078-D25767ABE554",
+    "height": 17,
+    "width": 205,
+    "x": -307,
+    "y": 613.9999999999999
   },
-  "glyphBounds": "{{1, 3}, {100, 29}}",
+  "glyphBounds": "{{1, 3}, {198, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -89,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Primary Button Hover",
+  "name": "Element or Alternati",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -97,13 +71,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B7EBC3D9-0F24-4F12-B9AC-85CDDDBB12D5",
+    "do_objectID": "E7DF6823-EAF3-42FB-B3FC-1C7318A230F7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "D4EC4E7C-A51A-41E5-B71A-8103207FEEE2",
+      "do_objectID": "1BC52C3D-11F2-45AA-898B-4C72F218E265",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
